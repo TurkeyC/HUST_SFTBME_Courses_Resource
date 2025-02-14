@@ -1,0 +1,2 @@
+# HUST_SFTBME_Courses_Resource
+本项目为华中科技大学未来技术学院生医方向2024级的相关课程资料与收集

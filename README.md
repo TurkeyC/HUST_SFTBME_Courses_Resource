@@ -40,7 +40,17 @@
 
 ---
 
+## 🤗感谢所有支持者们！
 
+<a href="https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource/stargazers">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://reporoster.com/stars/dark/TurkeyC/HUST_SFTBME_Courses_Resource"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://reporoster.com/stars/TurkeyC/HUST_SFTBME_Courses_Resource"/>
+      <img alt="github contribution grid snake animation" src="https://reporoster.com/stars/TurkeyC/HUST_SFTBME_Courses_Resource"/>
+    </picture>
+</a>
+
+---
 
 ## 感谢所有贡献者作出的努力
 

@@ -1,0 +1,1214 @@
+{
+  "database_name": "微积分下题库",
+  "version": "1.1",
+  "last_updated": "2025-05-02",
+  "questions":   
+  [
+    {
+      "id": "cal_001",
+      "problem_text": "求经过点 $M(1, 1, 1)$，平行于向量 $\\overrightarrow{a} = (1, 0, -1)$，$\\overrightarrow{b} = (0, 3, -4)$ 的平面方程。",
+      "topic": "空间解析几何",
+      "difficulty": 3,
+      "source": "calculus20250222"
+    },
+    {
+      "id": "cal_002",
+      "problem_text": "求经过点 $M_1(-1, 0, 2)$，$M_2(1, 3, -2)$ 并平行于向量 $(-1, -2, -4)$ 的平面方程。",
+      "topic": "空间解析几何",
+      "difficulty": 3,
+      "source": "calculus20250222"
+    },
+    {
+      "id": "cal_003",
+      "problem_text": "说明在空间直角坐标系中方程\n$$\n(x + 3y - z - 2)(3x + y + z - 4) = 0\n$$\n的图像。",
+      "topic": "空间解析几何",
+      "difficulty": 4,
+      "source": "calculus20250222"
+    },
+    {
+      "id": "cal_004",
+      "problem_text": "已知两个平面方程为\n$$\n\\pi_1: 3x - 2y + 5z + 2 = 0, \\quad \\pi_2: 6x - 4y + 10z - 5 = 0.\n$$\n求到 $\\pi_1$ 的距离和到 $\\pi_2$ 的距离之比为 $2:1$ 的点的轨迹。",
+      "topic": "空间解析几何",
+      "difficulty": 5,
+      "source": "calculus20250222"
+    },
+    {
+      "id": "cal_005",
+      "problem_text": "在空间直角坐标系中，直线 $l_1$, $l_2$ 分别是\n$$\nl_1: \n\\begin{cases}\nx + 2y - z + 1 = 0, \\\\\nx - 4y - z - 2 = 0,\n\\end{cases}\n\\quad\nl_2: \n\\begin{cases}\nx - y + z - 2 = 0, \\\\\n4x - 2y + 1 = 0,\n\\end{cases}\n$$\n设直线 $l$ 过原点并且与 $l_1$ 和 $l_2$ 共面，求 $l$ 的方程。",
+      "topic": "空间解析几何",
+      "difficulty": 5,
+      "source": "calculus20250222"
+    },
+    {
+      "id": "cal_006",
+      "problem_text": "求所有与直线\n$$\nl_1: \\frac{x - 6}{3} = \\frac{y}{2} = \\frac{z - 1}{2}, \\quad l_2: \\frac{x}{3} = \\frac{y}{2} = \\frac{z + 4}{-2}\n$$\n都相交，并且平行于平面 $2x + 3y - 5 = 0$ 的直线所构成的图形的方程。",
+      "topic": "空间解析几何",
+      "difficulty": 6,
+      "source": "calculus20250222"
+    },
+    {
+      "id": "cal_007",
+      "problem_text": "求点 $(1, 0, 2)$ 到直线\n$$\n\\begin{cases}\n3x - 2y - 1 = 0, \\\\\ny - z - 2 = 0,\n\\end{cases}\n$$\n的距离。",
+      "topic": "空间解析几何",
+      "difficulty": 4,
+      "source": "calculus20250222"
+    },
+    {
+      "id": "cal_008",
+      "problem_text": "设动点与点 $(1, 0, 0)$ 的距离等于从该点到平面 $x = 4$ 的距离的一半. 求动点的轨迹。",
+      "answer_text": null,
+      "topic": "空间解析几何",
+      "difficulty": 3,
+      "source": "calculus20250226"
+    },
+    {
+      "id": "cal_009",
+      "problem_text": "由椭球面 $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} + \\frac{z^2}{c^2} = 1$ 的中心，引三条两两垂直的射线，分别交曲面于点 $P_1$, $P_2$, $P_3$，设 $OP_1 = r_1$, $OP_2 = r_2$, $OP_3 = r_3$. 求证：\n$$\n\\frac{1}{r_1^2} + \\frac{1}{r_2^2} + \\frac{1}{r_3^2} = \\frac{1}{a^2} + \\frac{1}{b^2} + \\frac{1}{c^2}.\n$$",
+      "answer_text": null,
+      "topic": "空间解析几何",
+      "difficulty": 5,
+      "source": "calculus20250226"
+    },
+    {
+      "id": "cal_010",
+      "problem_text": "设动点与点 $(4, 0, 0)$ 的距离等于从该点到平面 $x = 1$ 的距离的两倍. 求动点的轨迹。",
+      "answer_text": null,
+      "topic": "空间解析几何",
+      "difficulty": 4,
+      "source": "calculus20250226"
+    },
+    {
+      "id": "cal_011",
+      "problem_text": "试求单叶双曲面 $\\frac{x^2}{16} + \\frac{y^2}{4} - \\frac{z^2}{5} = 1$ 与平面 $x - 2z + 3 = 0$ 的交线对 $Oxy$ 平面的投影柱面。",
+      "answer_text": null,
+      "topic": "空间解析几何",
+      "difficulty": 5,
+      "source": "calculus20250226"
+    },
+    {
+      "id": "cal_012",
+      "problem_text": "画出由曲面 $x = \\sqrt{y - z^2}$, $\\frac{1}{2}\\sqrt{y} = x$, $y = 1$ 所围的立体图形。",
+      "answer_text": null,
+      "topic": "空间解析几何",
+      "difficulty": 4,
+      "source": "calculus20250226"
+    },
+    {
+      "id": "cal_013",
+      "problem_text": "求级数 $\\sum_{n=1}^{\\infty} \\frac{(-1)^{n-1}}{n(n+2)}$ 的和。",
+      "topic": "级数求和",
+      "difficulty": 4,
+      "source": "calculus20250228"
+    },
+    {
+      "id": "cal_014",
+      "problem_text": "求级数 $\\sum_{n=1}^{+\\infty} \\frac{2n-1}{2^n}$ 的和。",
+      "topic": "级数求和",
+      "difficulty": 3,
+      "source": "calculus20250228"
+    },
+    {
+      "id": "cal_015",
+      "problem_text": "求级数 $\\sum_{n=1}^{+\\infty} \\ln \\frac{n(2n+1)}{(n+1)(2n-1)}$ 的和。",
+      "topic": "级数求和",
+      "difficulty": 5,
+      "source": "calculus20250228"
+    },
+    {
+      "id": "cal_016",
+      "problem_text": "求级数 $\\sum_{n=1}^{\\infty} \\arctan \\frac{1}{2n^2}$ 的和。",
+      "topic": "级数求和",
+      "difficulty": 6,
+      "source": "calculus20250228"
+    },
+    {
+      "id": "cal_017",
+      "problem_text": "讨论下列级数的敛散性：\n(1) $\\sum_{n=1}^{\\infty} \\frac{1}{\\sqrt{n(n+1)}}$；\n(2) $\\sum_{n=1}^{\\infty} \\frac{1}{n^3 + 1}$。",
+      "topic": "级数收敛性",
+      "difficulty": 5,
+      "source": "calculus20250228"
+    },
+    {
+      "id": "cal_018",
+      "problem_text": "探究级数 $\\sum_{n=1}^{\\infty} \\sin nx$ 在点 $0 \\leq x \\leq 2\\pi$ 的敛散性。",
+      "topic": "级数收敛性",
+      "difficulty": 7,
+      "source": "calculus20250228"
+    },
+    {
+      "id": "cal_019",
+      "problem_text": "设级数 $\\sum_{n=1}^{\\infty} a_n$, $a_n \\geq 0$, 收敛，证明 $\\sum_{n=1}^{\\infty} a_n^2$ 收敛。反之对吗？请说明之。",
+      "topic": "级数收敛性",
+      "difficulty": 6,
+      "source": "calculus20250228"
+    },
+    {
+      "id": "cal_020",
+      "problem_text": "证明级数 $\\sum_{n=1}^{\\infty} \\frac{(-1)^{n-1}}{n}$ 收敛。",
+      "topic": "级数收敛性",
+      "difficulty": 4,
+      "source": "calculus20250228"
+    },
+    {
+      "id": "cal_021",
+      "problem_text": "判断级数 $\\sum_{n=1}^{\\infty} \\frac{n}{3\\sqrt{n}}$ 的敛散性。",
+      "topic": "级数收敛性",
+      "difficulty": 4,
+      "source": "calculus20250303"
+    },
+    {
+      "id": "cal_022",
+      "problem_text": "讨论级数 $\\sum_{n=1}^{\\infty} \\frac{1}{a^n}(1 + \\frac{1}{n})^{n^2}, a > 0,$ 的敛散性。",
+      "topic": "级数收敛性",
+      "difficulty": 6,
+      "source": "calculus20250303"
+    },
+    {
+      "id": "cal_023",
+      "problem_text": "判断级数 $\\sum_{n=1}^{\\infty} \\frac{(2n)!}{5^n(n!)^2}$ 的敛散性。",
+      "topic": "级数收敛性",
+      "difficulty": 7,
+      "source": "calculus20250303"
+    },
+    {
+      "id": "cal_024",
+      "problem_text": "判断级数 $\\sum_{n=1}^{\\infty} (e - (1 + \\frac{1}{n})^n)$ 的敛散性。",
+      "topic": "级数收敛性",
+      "difficulty": 8,
+      "source": "calculus20250303"
+    },
+    {
+      "id": "cal_025",
+      "problem_text": "若正项级数 $\\sum_{n=1}^{\\infty} a_n$ 收敛，且 $a_{n+1} \\leq a_n$，求证：\n$$\n\\lim_{n \\to \\infty} n a_n = 0.\n$$",
+      "topic": "级数收敛性",
+      "difficulty": 6,
+      "source": "calculus20250303"
+    },
+    {
+      "id": "cal_026",
+      "problem_text": "设\n$$\na_n = \n\\begin{cases}\n\\frac{1}{n^2}, & n \\neq k^2, k = 1, 2, \\cdots, \\\\\n\\frac{n!}{k^2}, & n = k^2, k = 1, 2, \\cdots.\n\\end{cases}\n$$\n求证：\n(1) $\\sum_{n=1}^{\\infty} a_n$ 收敛；\n(2) $\\lim_{n \\to +\\infty} n a_n \\neq 0$。",
+      "topic": "级数收敛性",
+      "difficulty": 8,
+      "source": "calculus20250303"
+    },
+    {
+      "id": "cal_027",
+      "problem_text": "讨论级数 $\\sum_{n=2}^{\\infty} \\frac{1}{n(\\ln n)^p}, p > 0,$ 的敛散性。",
+      "topic": "级数收敛性",
+      "difficulty": 7,
+      "source": "calculus20250303"
+    },
+    {
+      "id": "cal_028",
+      "problem_text": "(Raabe判别法) 设 $a_n > 0, n = 1, 2, \\cdots$ 且\n$$\n\\lim_{n \\to +\\infty} n \\left( \\frac{a_n}{a_{n+1}} - 1 \\right) = r.\n$$\n则 (1) 当 $r > 1$ 时级数 $\\sum_{n=1}^{+\\infty} a_n$ 收敛；(2) 当 $r < 1$ 时级数 $\\sum_{n=1}^{+\\infty} a_n$ 发散。",
+      "topic": "级数收敛性",
+      "difficulty": 9,
+      "source": "calculus20250303"
+    },
+    {
+      "id": "cal_029",
+      "problem_text": "试用 Abel 求和公式 (Abel 变换) 证明：若 $a_1 \\geq a_2 \\geq \\cdots \\geq a_n \\geq 0$，且\n$$\n\\sum_{k=1}^m b_k \\geq \\sum_{k=1}^m a_k, m = 1, 2, \\cdots, n,\n$$\n则有\n$$\n\\sum_{k=1}^n b_k^2 \\geq \\sum_{k=1}^n a_k^2.\n$$\n上述不等式称为钟开莱不等式。",
+      "topic": "级数收敛性与不等式",
+      "difficulty": 8,
+      "source": "calculus20250305"
+    },
+    {
+      "id": "cal_030",
+      "problem_text": "判断下列级数的敛散性以及绝对收敛性：\n(1) $\\sum_{n=1}^{\\infty} (-1)^{n-1} \\frac{\\sqrt{n}}{n+100}$；\n(2) $\\sum_{n=1}^{\\infty} (-1)^{n-1} \\frac{\\cos 2n}{n}$；\n(3) $\\sum_{n=1}^{\\infty} (-1)^{n-1} (n^{\\frac{1}{n}} - 1)$。",
+      "topic": "级数收敛性",
+      "difficulty": 7,
+      "source": "calculus20250305"
+    },
+    {
+      "id": "cal_031",
+      "problem_text": "设数列 $\\{a_n\\}$ 严格单调减且趋于零，证明下列级数收敛：\n$$\n\\sum_{n=1}^{\\infty} (-1)^{n-1} \\frac{a_1 + a_2 + \\cdots + a_n}{n}.\n$$",
+      "topic": "级数收敛性",
+      "difficulty": 6,
+      "source": "calculus20250305"
+    },
+    {
+      "id": "cal_032",
+      "problem_text": "设 $b_n > 0$，且\n$$\n\\lim_{n \\to +\\infty} n \\left( \\frac{b_n}{b_{n+1}} - 1 \\right) > 0.\n$$\n求证：级数 $\\sum_{n=1}^{\\infty} (-1)^{n-1} b_n$ 收敛。",
+      "topic": "级数收敛性",
+      "difficulty": 7,
+      "source": "calculus20250305"
+    },
+    {
+      "id": "cal_033",
+      "problem_text": "证明：$\\sum_{n=1}^{+\\infty} \\frac{(-1)^{[\\sqrt{n}]}}{n}$ 收敛。",
+      "topic": "级数收敛性",
+      "difficulty": 7,
+      "source": "calculus20250305"
+    },
+    {
+      "id": "cal_034",
+      "problem_text": "是否存在级数 $\\sum_{n=1}^{+\\infty} a_n$ 收敛而级数 $\\sum_{n=1}^{+\\infty} a_n^3$ 发散？若不存在请证明，若存在请举例子说明。",
+      "topic": "级数收敛性",
+      "difficulty": 9,
+      "source": "calculus20250305"
+    },
+    {
+      "id": "cal_035",
+      "problem_text": "求下列函数项级数的收敛域。\n(a) $\\sum_{n=1}^{+\\infty} \\frac{n}{n+1} \\left( \\frac{x}{2x+1} \\right)^n$；\n(b) $\\sum_{n=1}^{+\\infty} \\frac{(-1)^n}{2n-1} \\left( \\frac{1-x}{1+x} \\right)^n$；\n(c) $\\sum_{n=1}^{+\\infty} \\frac{(n+x)^n}{n^{n+x}}$；\n(d) $\\sum_{n=1}^{+\\infty} (\\sqrt[n]{n} - 1)^x, x > 0$。",
+      "topic": "函数项级数收敛域",
+      "difficulty": 7,
+      "source": "calculus20250307"
+    },
+    {
+      "id": "cal_036",
+      "problem_text": "设 $f_n(x) = \\frac{x^n}{1+x^n}, x \\in [0, 1]$。(1) 求函数列的极限函数 $S(x)$；(2) 取 $\\varepsilon = \\frac{1}{3}$，能否找到一个 $N$，使得对所有的 $n > N$ 以及所有的 $x \\in [0, 1]$ 都有\n$$\n|f_n(x) - S(x)| < \\varepsilon?\n$$",
+      "topic": "函数列的极限与一致收敛性",
+      "difficulty": 8,
+      "source": "calculus20250307"
+    },
+    {
+      "id": "cal_037",
+      "problem_text": "设 $f_1(x)$ 在 $[a, b]$ 上 Riemann 可积，定义函数列\n$$\nf_{n+1}(x) = \\int_a^x f_n(t) dt, n = 1, 2, \\cdots\n$$\n求证：当 $n \\to +\\infty$ 时 $\\{f_n\\}$ 一致收敛到零。",
+      "topic": "函数列的一致收敛性",
+      "difficulty": 8,
+      "source": "calculus20250310"
+    },
+    {
+      "id": "cal_038",
+      "problem_text": "证明级数 $\\sum_{n=1}^{\\infty} \\ln(1 + \\frac{x}{n \\ln^2 n})$ 在区间 $(-a, a)$ 上一致收敛，其中 $0 < a < 2 \\ln^2 2$。",
+      "topic": "级数的一致收敛性",
+      "difficulty": 7,
+      "source": "calculus20250310"
+    },
+    {
+      "id": "cal_039",
+      "problem_text": "证明下列函数在相应区间内一致收敛：\n(1) $f_n(x) = \\frac{n^2 x^2}{1 + n^3 x^3}, 1 \\leq x < +\\infty$；\n(2) $f_n(x) = e^{-(x-n)^2}, -\\infty < a \\leq x \\leq b < +\\infty$；\n(3) $\\sum_{n=1}^{\\infty} \\frac{nx}{1 + n^5 x^2}, -\\infty < x < +\\infty$；\n(4) $\\sum_{n=1}^{\\infty} \\frac{x^n \\ln^n x}{n!}, 0 < x \\leq 1$。",
+      "topic": "函数项级数的一致收敛性",
+      "difficulty": 8,
+      "source": "calculus20250310"
+    },
+    {
+      "id": "cal_040",
+      "problem_text": "设 $\\sum_{n=1}^{\\infty} u_n(x)$ 的一般项 $u_n(x)$ 在 $[a, b]$ 内可微，且 $\\sum_{n=1}^{\\infty} u_n'(x)$ 在 $(a, b)$ 上一致收敛，又存在 $x_0 \\in (a, b)$ 使得 $\\sum_{n=1}^{\\infty} u_n(x_0)$ 收敛。证明：$\\sum_{n=1}^{\\infty} u_n(x)$ 在 $[a, b]$ 上一致收敛。",
+      "topic": "函数项级数的一致收敛性与微分性质",
+      "difficulty": 9,
+      "source": "calculus20250310"
+    },
+    {
+      "id": "cal_041",
+      "problem_text": "试给出 $\\sum_{n=1}^{\\infty} u_n(x)$ 在 $(a, b)$ 内不一致收敛的刻画。",
+      "answer_text": "",
+      "topic": "级数的一致收敛性",
+      "difficulty": 6,
+      "source": "calculus20250312"
+    },
+    {
+      "id": "cal_042",
+      "problem_text": "证明级数 $\\sum_{n=1}^{\\infty} 2^n \\sin \\frac{1}{3^n x}$ 在 $(0, +\\infty)$ 上处处收敛，但不一致收敛。",
+      "answer_text": "",
+      "topic": "级数的收敛性与一致收敛性",
+      "difficulty": 7,
+      "source": "calculus20250312"
+    },
+    {
+      "id": "cal_043",
+      "problem_text": "讨论 $\\sum_{n=0}^{\\infty} \\frac{1}{n!} x^n$ 的收敛域以及和函数的可微性，由此进一步求和函数。",
+      "answer_text": "",
+      "topic": "幂级数的收敛域与和函数",
+      "difficulty": 5,
+      "source": "calculus20250312"
+    },
+    {
+      "id": "cal_044",
+      "problem_text": "指出级数 $\\sum_{n=1}^{\\infty} \\frac{x^n}{n}$ 的收敛域，并研究其和函数的连续性。",
+      "answer_text": "",
+      "topic": "幂级数的收敛域与和函数的性质",
+      "difficulty": 5,
+      "source": "calculus20250312"
+    },
+    {
+      "id": "cal_045",
+      "problem_text": "求证 $f(x) = \\sum_{n=1}^{\\infty} \\frac{\\sin nx}{n^4}$ 在 $(-\\infty, +\\infty)$ 上连续并且有连续的二阶导数。",
+      "answer_text": "",
+      "topic": "级数的连续性和可微性",
+      "difficulty": 8,
+      "source": "calculus20250312"
+    },
+    {
+      "id": "cal_046",
+      "problem_text": "证明：函数 (Riemann ζ 函数)\n$$\n\\zeta(x) = \\sum_{n=1}^{\\infty} \\frac{1}{n^x}\n$$\n在 $x > 1$ 内是连续的，并且有任意阶的连续导数。",
+      "answer_text": "",
+      "topic": "特殊函数的连续性和可微性",
+      "difficulty": 9,
+      "source": "calculus20250312"
+    },
+    {
+      "id": "cal_047",
+      "problem_text": "(Bendixon) 设 $\\sum_{n=1}^{\\infty} u_n(x)$ 是 $[a, b]$ 上的可微函数项级数，且 $\\sum_{n=1}^{\\infty} u'_n(x)$ 的部分和函数列在 $[a, b]$ 上一致有界。证明：如果 $\\sum_{n=1}^{\\infty} u_n(x)$ 在 $[a, b]$ 上收敛，那么它在 $[a, b]$ 上一致收敛。",
+      "answer_text": "",
+      "topic": "级数的一致收敛性与函数项级数的性质",
+      "difficulty": 8,
+      "source": "calculus20250312"
+    },
+    {
+      "id": "cal_048",
+      "problem_text": "求下列级数的收敛半径和收敛域：\n(1) $\\sum_{n=1}^{\\infty} \\frac{(2n)!!}{(2n+1)!!} x^n$；\n(2) $\\sum_{n=1}^{\\infty} \\frac{(-1)^n}{n \\sqrt[n]{n}} x^n$；\n(3) $\\sum_{n=1}^{\\infty} \\frac{3 - \\sqrt{n}}{\\sqrt{n^2 + 1}} x^n$；\n(4) $\\sum_{n=1}^{\\infty} \\left( 1 + \\frac{1}{2} + \\cdots + \\frac{1}{n} \\right) x^n$；\n(5) $\\sum_{n=0}^{\\infty} (1 + 2 \\cos \\frac{n\\pi}{4})^n x^n$。",
+      "topic": "幂级数的收敛半径与收敛域",
+      "difficulty": 7,
+      "source": "calculus20250314"
+    },
+    {
+      "id": "cal_049",
+      "problem_text": "设 $\\sum_{n=0}^{\\infty} a_n x^n$ 的收敛半径为 $R$，且在开区间 $(-R, R)$ 上一致收敛。求证：$\\sum_{n=0}^{\\infty} a_n x^n$ 在 $[-R, R]$ 上一致收敛。",
+      "topic": "幂级数的一致收敛性",
+      "difficulty": 8,
+      "source": "calculus20250314"
+    },
+    {
+      "id": "cal_050",
+      "problem_text": "设幂级数 $\\sum_{n=0}^{\\infty} a_n (x - x_0)^n$ 的收敛半径为 $R$，证明幂级数 $\\sum_{n=1}^{\\infty} n a_n (x - x_0)^{n-1}$ 以及 $\\sum_{n=0}^{\\infty} \\frac{a_n}{n+1} (x - x_0)^{n+1}$ 的收敛半径都是 $R$。",
+      "topic": "幂级数的收敛半径性质",
+      "difficulty": 9,
+      "source": "calculus20250314"
+    },
+    {
+      "id": "cal_051",
+      "problem_text": "试将下列函数展开为 Maclaurin 级数：\n(1) $\\frac{1}{(1+x)^2}$；\n(2) $\\frac{x^2}{x^2 - 3x + 1}$；\n(3) $\\frac{x}{(1-x)(1-x^3)}$。",
+      "answer_text": "",
+      "topic": "Maclaurin 级数展开",
+      "difficulty": 6,
+      "source": "calculus20250317"
+    },
+    {
+      "id": "cal_052",
+      "problem_text": "求下列级数的和：\n(1) $\\sum_{n=1}^{\\infty} n(n+1)x^n$；\n(2) $\\sum_{n=0}^{\\infty} \\frac{x^{4n-1}}{4n+1}$；\n(3) $\\sum_{n=1}^{\\infty} n^2 x^{n-1}$。",
+      "answer_text": "",
+      "topic": "级数求和",
+      "difficulty": 7,
+      "source": "calculus20250317"
+    },
+    {
+      "id": "cal_053",
+      "problem_text": "将函数 $\\ln \\frac{1}{2+2x+x^2}$ 展开为 $x-1$ 的幂级数。",
+      "answer_text": "",
+      "topic": "幂级数展开",
+      "difficulty": 8,
+      "source": "calculus20250317"
+    },
+    {
+      "id": "cal_054",
+      "problem_text": "求 $\\arctan x$ 的 Maclaurin 级数展开，并计算 $\\frac{\\pi}{4} = 1 - \\frac{1}{3} + \\frac{1}{5} - \\frac{1}{7} + \\cdots$。",
+      "answer_text": "",
+      "topic": "特殊函数的 Maclaurin 级数展开",
+      "difficulty": 9,
+      "source": "calculus20250317"
+    },
+    {
+      "id": "cal_055",
+      "problem_text": "求函数 $\\frac{1}{(1+x)^2}$ 的 Maclaurin 级数展开。",
+      "answer_text": "",
+      "topic": "Maclaurin 级数展开",
+      "difficulty": 6,
+      "source": "calculus20250317"
+    },
+    {
+      "id": "cal_056",
+      "problem_text": "求 $\\cos^2 x$ 的 Maclaurin 级数展开。",
+      "answer_text": "",
+      "topic": "Maclaurin 级数展开",
+      "difficulty": 7,
+      "source": "calculus20250317"
+    },
+    {
+      "id": "cal_057",
+      "problem_text": "证明：$n$ 次三角多项式\n$$\nT_n(x) = \\sum_{k=1}^n (a_k \\cos kx + b_k \\sin kx)\n$$\n的 Fourier 级数就是它自身。",
+      "topic": "Fourier 级数",
+      "difficulty": 6,
+      "source": "calculus20250319"
+    },
+    {
+      "id": "cal_058",
+      "problem_text": "设级数\n$$\n\\frac{|a_0|}{2} + \\sum_{n=1}^{+\\infty} (|a_n| + |b_n|) < +\\infty.\n$$\n证明：级数\n$$\n\\frac{a_0}{2} + \\sum_{n=1}^{+\\infty} (a_n \\cos nx + b_n \\sin nx)\n$$\n必是某个周期为 $2\\pi$ 的函数的 Fourier 级数。",
+      "topic": "Fourier 级数",
+      "difficulty": 7,
+      "source": "calculus20250319"
+    },
+    {
+      "id": "cal_059",
+      "problem_text": "证明：(1) $\\int_{-\\pi}^{\\pi} \\frac{\\sin(n+\\frac{1}{2})x}{2\\sin\\frac{x}{2}} dx = \\pi$；(2) $\\int_0^{+\\infty} \\frac{\\sin x}{x} dx = \\frac{\\pi}{2}$。",
+      "topic": "Fourier 级数与积分性质",
+      "difficulty": 8,
+      "source": "calculus20250319"
+    },
+    {
+      "id": "cal_060",
+      "problem_text": "设 $f \\in R[a, b]$。证明：\n$$\n\\lim_{n \\to +\\infty} \\int_a^b f(x) |\\sin nx| dx = \\frac{2}{\\pi} \\int_a^b f(x) dx.\n$$",
+      "topic": "Fourier 级数与极限性质",
+      "difficulty": 9,
+      "source": "calculus20250319"
+    },
+    {
+      "id": "cal_061",
+      "problem_text": "设可积函数 $f(x)$ 为奇函数，在 $[0, \\pi]$ 上 $f(x) \\geq 0$。求证：\n$$ |b_n| \\leq n b_1. $$",
+      "answer_text": "",
+      "topic": "Fourier 级数的性质",
+      "difficulty": 7,
+      "source": "calculus20250321"
+    },
+    {
+      "id": "cal_062",
+      "problem_text": "设 $f(x)$ 是一个在 $(0, 2\\pi)$ 上单调递减有界的 $2\\pi$ 周期函数。求证：\n$$ b_n \\geq 0. $$",
+      "answer_text": "",
+      "topic": "Fourier 系数的性质",
+      "difficulty": 6,
+      "source": "calculus20250321"
+    },
+    {
+      "id": "cal_063",
+      "problem_text": "设 $T_n(x) = \\frac{1}{2} a_0 + \\sum_{k=1}^n (a_k \\cos kx + b_k \\sin kx)$。求证：\n$$ T_n(x) = \\frac{1}{2\\pi} \\int_{-\\pi}^{\\pi} T_n(x+t) \\frac{\\sin(n+\\frac{1}{2})t}{\\sin \\frac{1}{2} t} dt. $$",
+      "answer_text": "",
+      "topic": "Fourier 级数的性质与积分表示",
+      "difficulty": 8,
+      "source": "calculus20250321"
+    },
+    {
+      "id": "cal_064",
+      "problem_text": "在 $(-\\pi, \\pi)$ 内将 $e^x$ 的 Fourier 展开。由此求级数 $\\sum_{n=1}^{\\infty} \\frac{1}{1+n^2}$ 的和。",
+      "answer_text": "",
+      "topic": "Fourier 展开与级数求和",
+      "difficulty": 9,
+      "source": "calculus20250321"
+    },
+    {
+      "id": "cal_065",
+      "problem_text": "在 $(-\\pi, \\pi)$ 内将 $x \\sin x$ 展开成 Fourier 级数。",
+      "answer_text": "",
+      "topic": "Fourier 展开",
+      "difficulty": 7,
+      "source": "calculus20250321"
+    },
+    {
+      "id": "cal_066",
+      "problem_text": "在 $(-\\pi, \\pi)$ 内将 $f(x) = e^x$ 展开成 Fourier 级数，并由此计算级数 $\\sum_{n=1}^{\\infty} \\frac{1}{1+n^2}$。",
+      "topic": "Fourier 级数展开与级数求和",
+      "difficulty": 8,
+      "source": "calculus20250324"
+    },
+    {
+      "id": "cal_067",
+      "problem_text": "将函数 $f(x) = x(\\pi - x), x \\in [0, \\pi]$ 展开为余弦级数。",
+      "topic": "Fourier 级数展开",
+      "difficulty": 7,
+      "source": "calculus20250324"
+    },
+    {
+      "id": "cal_068",
+      "problem_text": "试将函数 $\\cos x, x \\in (0, \\pi)$ 展成正弦级数。",
+      "topic": "Fourier 级数展开",
+      "difficulty": 7,
+      "source": "calculus20250324"
+    },
+    {
+      "id": "cal_069",
+      "problem_text": "设 $a_n, b_n$ 是 $f(x)$ 的 Fourier 系数，计算\n$$\n\\frac{1}{\\pi} \\int_{-\\pi}^{\\pi} \\left[ f(x) - \\left( \\frac{1}{2} a_0 + \\sum_{k=1}^n (a_k \\cos kx + b_k \\sin kx) \\right) \\right]^2 dx.\n$$\n由此证明级数 $\\frac{1}{2} a_0^2 + \\sum_{n=1}^{+\\infty} (a_n^2 + b_n^2)$ 收敛，且\n$$\n\\frac{1}{2} a_0^2 + \\sum_{n=1}^{+\\infty} (a_n^2 + b_n^2) \\leq \\frac{1}{\\pi} \\int_{-\\pi}^{\\pi} f^2(x) dx.\n$$",
+      "topic": "Parseval 定理与 Fourier 系数的性质",
+      "difficulty": 9,
+      "source": "calculus20250324"
+    },
+    {
+      "id": "cal_070",
+      "problem_text": "称集合 $A \\subset \\mathbb{R}^n$ 是有界的，若存在 $K > 0$ 使得\n$$ |x| \\leq K, \\forall x \\in A. $$\n画出下列集合的图形，并指出是否是开集或闭集，是否有界。\n(1) $\\Omega_1 = \\{(x, y) | y > 0, x > y, x < 1\\}$；\n(2) $\\Omega_2 = \\{(x, y) | xy = 1\\}$；\n(3) $\\Omega_3 = \\{(x, y) | 0 \\leq y < 2, 2y \\leq x \\leq 2y + 2\\}$。",
+      "answer_text": "",
+      "topic": "度量空间与集合性质",
+      "difficulty": 5,
+      "source": "calculus20250326"
+    },
+    {
+      "id": "cal_071",
+      "problem_text": "称点 $a$ 为集合 $A \\subset \\mathbb{R}^n$ 的一个聚点，若对任意 $\\delta > 0$，\n$$ \\{x \\in \\mathbb{R}^n | 0 < |x - a| < \\delta\\} \\cap A \\neq \\emptyset. $$\n试确定集合 $\\{(x, \\sin \\frac{1}{x}) | 0 < x < 1\\}$ 的聚点。",
+      "answer_text": "",
+      "topic": "聚点的概念",
+      "difficulty": 6,
+      "source": "calculus20250326"
+    },
+    {
+      "id": "cal_072",
+      "problem_text": "画出函数 $z = \\frac{1}{x^2 + 2y^2}$ 的等值线。",
+      "answer_text": "",
+      "topic": "多变量函数的等值线",
+      "difficulty": 4,
+      "source": "calculus20250326"
+    },
+    {
+      "id": "cal_073",
+      "problem_text": "画出函数 $z = f(\\frac{y}{x})$ 的等值线。",
+      "answer_text": "",
+      "topic": "多变量函数的等值线",
+      "difficulty": 4,
+      "source": "calculus20250326"
+    },
+    {
+      "id": "cal_074",
+      "problem_text": "求下列极限\n(1) $\\lim_{(x,y) \\to (0,0)} \\frac{e^x + e^y}{\\cos x - \\sin y}$；\n(2) $\\lim_{(x,y) \\to (0,0)} \\frac{x^2 y^{\\frac{3}{2}}}{x^4 + y^2}$；\n(3) $\\lim_{(x,y) \\to (0,0)} \\frac{\\sin(x^2 + y^2)}{x^2 + y^2}$；\n(4) $\\lim_{(x,y) \\to (+\\infty, +\\infty)} \\left(\\frac{xy}{x^2 + y^2}\\right)^{x^2}$。",
+      "answer_text": "",
+      "topic": "多元函数的极限",
+      "difficulty": 8,
+      "source": "calculus20250326"
+    },
+    {
+      "id": "cal_075",
+      "problem_text": "证明极限 $\\lim_{(x,y) \\to (0,0)} \\frac{x^2 y^2}{x^3 + y^3}$ 不存在。这里 $(x, y)$ 取函数定义域内的点。",
+      "answer_text": "",
+      "topic": "多元函数的极限不存在性",
+      "difficulty": 9,
+      "source": "calculus20250326"
+    },
+    {
+      "id": "cal_076",
+      "problem_text": "证明：函数\\n$$f(x) = \\begin{cases} \\frac{x^2y}{x^4 + y^3}, & x^2 + y^2 \\neq 0 \\\\ 0, & x^2 + y^2 = 0. \\end{cases}$$\\n在点(0,0)处沿过此点的每一条射线$x = t\\cos\\alpha,y = t\\sin\\alpha,0 \\leq t < +\\infty$,连续，即\\n$$\\lim_{t\\to0^+} f(t\\cos\\alpha,t\\sin\\alpha)=f(0,0),$$\\n但$f(x,y)$在点(0,0)不连续.",
+      "answer_text": "",
+      "topic": "多元函数连续性",
+      "difficulty": 7,
+      "source": "calculus20250328"
+    },
+    {
+      "id": "cal_077",
+      "problem_text": "求下列函数的各个偏导数：\\n(a) $u=\\sin(x\\cos y)$;\\n(b) $u=\\arctan\\frac{xz+y}{1-xy}$.",
+      "answer_text": "",
+      "topic": "偏导数计算",
+      "difficulty": 4,
+      "source": "calculus20250328"
+    },
+    {
+      "id": "cal_078",
+      "problem_text": "求下列函数在指定点处的各个偏导数：\\n(a) $u=\\sqrt[3]{\\frac{x}{z}}$，在点$(1,1,1)$处；\\n(b) $u=\\arctan\\frac{x+y+z - xyz}{1 - xy - yz - zx}$，在点$(0,0,0)$处.",
+      "answer_text": "",
+      "topic": "偏导数计算",
+      "difficulty": 5,
+      "source": "calculus20250328"
+    },
+    {
+      "id": "cal_079",
+      "problem_text": "求下列函数的全微分：\\n(a) $u=e^{xy}$;\\n(b) $u=\\frac{z}{x^2 + y^2}$.",
+      "answer_text": "",
+      "topic": "全微分计算",
+      "difficulty": 3,
+      "source": "calculus20250328"
+    },
+    {
+      "id": "cal_080",
+      "problem_text": "设$f(x)$在$x^{(0)}$的某空心邻域内有偏导数$\\frac{\\partial f(x)}{\\partial x_i}$，函数$f(x)$在点$x^{(0)}$处连续，且$\\lim\\limits_{x\\to x^{(0)}}\\frac{\\partial f(x)}{\\partial x_i}=A$. 证明：$\\frac{\\partial f(x^{(0)})}{\\partial x_i}=A$.",
+      "answer_text": "",
+      "topic": "偏导数与连续性关系",
+      "difficulty": 8,
+      "source": "calculus20250328"
+    },
+    {
+      "id": "cal_081",
+      "problem_text": "设$D\\subset\\mathbb{R}^2$是开区域，函数$f(x,y)$满足$\\frac{\\partial f(x,y)}{\\partial x}=0,\\frac{\\partial f(x,y)}{\\partial y}=0,\\forall (x,y)\\in D$. 证明：$f(x,y)$在$D$内是常函数.",
+      "answer_text": "",
+      "topic": "偏导数与常函数",
+      "difficulty": 6,
+      "source": "calculus20250328"
+    },
+    {
+      "id": "cal_082",
+      "problem_text": "设 $A, B$ 是一个 $m \\times n$ 实矩阵，定义\n\\[ \\|A\\| = \\max \\{|Ax| \\mid x \\in \\mathbb{R}^n, |x| = 1\\}. \\]\n求证：\n(1) $\\|A\\| \\geq 0$, $\\|A\\| = 0$ 当且仅当 $A$ 是一个零矩阵；\n(2) $\\|kA\\| = |k| \\|A\\|$, $k$ 是任意实数；\n(3) $\\|A + B\\| \\leq \\|A\\| + \\|B\\|$；\n(4) $|Ax| \\leq \\|A\\||x|, \\forall x \\in \\mathbb{R}^n$.",
+      "answer_text": "",
+      "topic": "矩阵范数与线性代数",
+      "difficulty": 7,
+      "source": "calculus20250331"
+    },
+    {
+      "id": "cal_083",
+      "problem_text": "设 $f = (f_1, f_2, \\cdots, f_m)^T : \\mathbb{R}^n \\to \\mathbb{R}^m$ 的所有偏导数 $\\frac{\\partial f_i(x)}{\\partial x_j}$ 在点 $x^{(0)}$ 处连续. 若 $\\left\\| \\left( \\frac{\\partial f_i(x^{(0)})}{\\partial x_j} \\right) \\right\\| = a > 0$, 则 $\\forall \\varepsilon > 0$, 存在 $\\delta > 0$ 使得\n\\[ \\left\\| \\left( \\frac{\\partial f_i(x)}{\\partial x_j} \\right) \\right\\| > a - \\varepsilon. \\]",
+      "answer_text": "",
+      "topic": "多元函数的偏导数与连续性",
+      "difficulty": 8,
+      "source": "calculus20250331"
+    },
+    {
+      "id": "cal_084",
+      "problem_text": "设 $f(x, y) = \\begin{pmatrix} x^2 - 2y \\\\ e^{x+2y} \\\\ \\sin(x + 2y) \\end{pmatrix}$, 求 $Df(x, y)$.",
+      "answer_text": "",
+      "topic": "多元函数的微分",
+      "difficulty": 6,
+      "source": "calculus20250331"
+    },
+    {
+      "id": "cal_085",
+      "problem_text": "设 $z = x^n f\\left(\\frac{y}{x^2}\\right)$, 其中 $f$ 为一元可微函数. 求证: $z$ 满足方程\n\\[ x \\frac{\\partial z}{\\partial x} + 2y \\frac{\\partial z}{\\partial y} = nz. \\]",
+      "answer_text": "",
+      "topic": "复合函数的偏导数与链式法则",
+      "difficulty": 8,
+      "source": "calculus20250331"
+    },
+    {
+      "id": "cal_086",
+      "problem_text": "设 $\\Omega \\subset \\mathbb{R}^2$ 是一个圆区域, $u(x, y), v(x, y)$ 在 $\\Omega$ 上满足\n\\[ \\frac{\\partial u}{\\partial x} = \\frac{\\partial v}{\\partial y}, \\frac{\\partial u}{\\partial y} = -\\frac{\\partial v}{\\partial x}, u^2 + v^2 = C, \\]\n$C$ 为常数. 求证: $u(x, y), v(x, y)$ 在 $\\Omega$ 上是常数.",
+      "answer_text": "",
+      "topic": "偏微分方程与调和函数",
+      "difficulty": 9,
+      "source": "calculus20250331"
+    },
+    {
+      "id": "cal_087",
+      "problem_text": "设 $f$ 是一个 $n$ 元函数, $\\frac{\\partial f(x^{(0)})}{\\partial x_1}$ 存在而 $\\frac{\\partial f(x^{(0)})}{\\partial x_j}, j = 2, \\cdots, n$ 连续, 则 $f$ 在点 $x^{(0)}$ 可微.",
+      "answer_text": "",
+      "topic": "多元函数的可微性",
+      "difficulty": 7,
+      "source": "calculus20250331"
+    },
+    {
+      "id": "cal_088",
+      "problem_text": "设 $u = f(s, t, y)$, $s = \\varphi(x, y)$, $t = \\psi(x, y)$, $f$ 可微. 求 $\\frac{\\partial u}{\\partial x}$, $\\frac{\\partial u}{\\partial y}$.",
+      "answer_text": "",
+      "topic": "多元函数的偏导数",
+      "difficulty": 3,
+      "source": "calculus20250402"
+    },
+    {
+      "id": "cal_089",
+      "problem_text": "设 $D \\subset \\mathbb{R}^n$ 是一个凸区域，多元函数 $f(x)$ 在 $D$ 上可微且 $Df(x) = 0$, $\\forall x \\in D$. 证明 $f(x)$ 是一个常函数.",
+      "answer_text": "",
+      "topic": "多元函数的性质与证明",
+      "difficulty": 5,
+      "source": "calculus20250402"
+    },
+    {
+      "id": "cal_090",
+      "problem_text": "设 $f$ 可微, $u = f(\\sqrt{x^2 + y^2})$, 求函数 $u$ 的各个偏导数.",
+      "answer_text": "",
+      "topic": "复合函数的偏导数",
+      "difficulty": 4,
+      "source": "calculus20250402"
+    },
+    {
+      "id": "cal_091",
+      "problem_text": "设 $f$ 有连续偏导数, $u = f(x^2 + y^2, x^2 - y^2, 2xy)$, 求 $u$ 的各个偏导数.",
+      "answer_text": "",
+      "topic": "复合函数的偏导数",
+      "difficulty": 4,
+      "source": "calculus20250402"
+    },
+    {
+      "id": "cal_092",
+      "problem_text": "设 $f$ 有二阶连续偏导数, $u = f(\\frac{x}{y}, \\frac{y}{z})$, 求 $u_{xy}$.",
+      "answer_text": "",
+      "topic": "高阶偏导数",
+      "difficulty": 5,
+      "source": "calculus20250402"
+    },
+    {
+      "id": "cal_093",
+      "problem_text": "已知 $f(x, y) = (\\varphi(x + y), \\varphi(x - y))^T$, $F(s, t) = f(e^t, e^{-s})$, $\\varphi \\in C^1$. 求 $DF(s, t)$.",
+      "answer_text": "",
+      "topic": "向量值函数的导数",
+      "difficulty": 6,
+      "source": "calculus20250402"
+    },
+    {
+      "id": "cal_094",
+      "problem_text": "设 $A = (a_{ij})_{n \\times n}$ 是正交矩阵, $f(y) \\in C^2(\\mathbb{R}^m, \\mathbb{R})$, $F(x) = f(Ax)$. 求证:\\n$$\\sum_{i=1}^n \\frac{\\partial^2 f}{\\partial y_i^2} = \\sum_{i=1}^n \\frac{\\partial^2 F}{\\partial x_i^2}.$$",
+      "answer_text": "",
+      "topic": "多元函数的二阶导数与正交变换",
+      "difficulty": 7,
+      "source": "calculus20250402"
+    },
+    {
+      "id": "cal_095",
+      "problem_text": "设 $u = \\sin x + (y - 1) \\arcsin \\sqrt{\\frac{x}{y}}$. 求 $\\frac{\\partial^2 u}{\\partial x^2}$.",
+      "answer_text": "",
+      "topic": "复合函数的二阶偏导数",
+      "difficulty": 5,
+      "source": "calculus20250402"
+    },
+    {
+      "id": "cal_096",
+      "problem_text": "已知 $u = \\ln(x^2 + y^2)$. 计算 $\\nabla^2 u = \\frac{\\partial^2 u}{\\partial x^2} + \\frac{\\partial^2 u}{\\partial y^2}$.",
+      "answer_text": "",
+      "topic": "拉普拉斯算子",
+      "difficulty": 4,
+      "source": "calculus20250402"
+    },
+    {
+      "id": "cal_097",
+      "problem_text": "设 $n$ 元函数 $f(x) = f(x_1, x_2, \\cdots, x_n)$ 在以原点为心, $R$ 为半径的球内连续可微, $f(0) = 0$. 求证:\\n$$f(x) = \\sum_{j=1}^n x_j \\int_0^1 \\frac{\\partial f(tx)}{\\partial y_j} dt.$$",
+      "answer_text": "",
+      "topic": "泰勒公式与积分表示",
+      "difficulty": 8,
+      "source": "calculus20250402"
+    },
+    {
+      "id": "cal_098",
+      "problem_text": "设函数 $f : \\mathbb{R}^n \\to \\mathbb{R}^n$ 在球 $B(x^{(0)}, r)$ 内有连续偏导数，证明：存在 $0 < \\delta < r$，使得\n\\[ \\|Df(x) - Df(x')\\| < \\frac{1}{4 \\|(Df(x^{(0)}))^{-1}\\|}, \\forall x, x' \\in B(x^{(0)}, \\delta). \\]",
+      "answer_text": "",
+      "topic": "多元函数的微分与连续性",
+      "difficulty": 7,
+      "source": "calculus20250407"
+    },
+    {
+      "id": "cal_099",
+      "problem_text": "设 $f : \\mathbb{R}^n \\to \\mathbb{R}^m$ 可微，$A$ 为 $n \\times k$ 矩阵。证明：$f \\circ A(x) = f(A(x)), x \\in \\mathbb{R}^k$ 可微，且\n\\[ Df \\circ A(x) = Df \\cdot Ax. \\]",
+      "answer_text": "",
+      "topic": "复合函数的可微性与链式法则",
+      "difficulty": 8,
+      "source": "calculus20250407"
+    },
+    {
+      "id": "cal_100",
+      "problem_text": "设 $u = \\ln(xy), v = \\frac{1}{x^2 + y^2}$。求 $x_u, x_v, y_u, y_v$。",
+      "answer_text": "",
+      "topic": "隐函数求导与偏导数",
+      "difficulty": 6,
+      "source": "calculus20250407"
+    },
+    {
+      "id": "cal_101",
+      "problem_text": "设$\\vec{a}+3\\vec{b}$与$7\\vec{a}-5\\vec{b}$垂直，$\\vec{a}-4\\vec{b}$与$7\\vec{a}-2\\vec{b}$垂直，求$\\vec{a}$与$\\vec{b}$的夹角.",
+      "answer_text": "",
+      "topic": "向量的点积与夹角",
+      "difficulty": 4,
+      "source": "calculus20250411"
+    },
+    {
+      "id": "cal_102",
+      "problem_text": "已知点$P(3,-5,1)$和点$Q(4,-2,-1)$，求过点$Q$且垂直于$PQ$的平面方程.",
+      "answer_text": "",
+      "topic": "平面方程与向量垂直",
+      "difficulty": 3,
+      "source": "calculus20250411"
+    },
+    {
+      "id": "cal_103",
+      "problem_text": "求过点$M(1,0,-2)$且与两直线$\\frac{x-1}{1}=\\frac{y}{1}=\\frac{z+1}{-1}$和$\\frac{x}{1}=\\frac{y-1}{-1}=\\frac{z+1}{0}$垂直的直线方程.",
+      "answer_text": "",
+      "topic": "直线与平面的垂直关系",
+      "difficulty": 5,
+      "source": "calculus20250411"
+    },
+    {
+      "id": "cal_104",
+      "problem_text": "给定四点$O(0,0,0),A(1,0,0),B(1,1,0),C(1,1,1)$，求四面体$OABC$的体积. 又设映射$F(x,y,z)=\\begin{pmatrix} 1 & 2 & 1 \\\\ 2 & 3 & -1 \\\\ 1 & 2 & 3 \\end{pmatrix}\\begin{pmatrix} x \\\\ y \\\\ z \\end{pmatrix}$将$O,A,B,C$映为$O',A',B',C'$，求四面体$O'A'B'C'$的体积.",
+      "answer_text": "",
+      "topic": "四面体体积与线性变换",
+      "difficulty": 6,
+      "source": "calculus20250411"
+    },
+    {
+      "id": "cal_105",
+      "problem_text": "判断级数$\\sum_{n=2}^{\\infty}\\sin\\left(n\\pi+\\frac{1}{\\ln n}\\right)$的敛散性. 若收敛，指出是绝对收敛还是条件收敛.",
+      "answer_text": "",
+      "topic": "级数的敛散性",
+      "difficulty": 8,
+      "source": "calculus20250411"
+    },
+    {
+      "id": "cal_106",
+      "problem_text": "叙述函数项级数$\\sum_{n=1}^{\\infty}u_n(x)$在区间$(a,b)$内不一致收敛的 Cauchy 准则. 证明$\\sum_{n=1}^{\\infty}\\frac{\\sin nx}{n}$在区间$[0,\\pi]$上不一致收敛.",
+      "answer_text": "",
+      "topic": "函数项级数的一致收敛性",
+      "difficulty": 9,
+      "source": "calculus20250411"
+    },
+    {
+      "id": "cal_107",
+      "problem_text": "设幂级数$\\sum_{n=0}^{\\infty}a_nx^n$的收敛半径为$R$，证明幂级数$\\sum_{n=1}^{\\infty}na_nx^{n-1}$的收敛半径也是$R$.",
+      "answer_text": "",
+      "topic": "幂级数的收敛半径",
+      "difficulty": 7,
+      "source": "calculus20250411"
+    },
+    {
+      "id": "cal_108",
+      "problem_text": "设函数$f(x)=R\\left(\\frac{x}{\\pi}\\right),x\\in(0,\\pi)$，其中$R(\\cdot)$为 Riemann 函数，试求$f(x)$的一个非零的 Fourier 级数.(不考虑收敛性)",
+      "answer_text": "",
+      "topic": "Fourier 级数展开",
+      "difficulty": 8,
+      "source": "calculus20250411"
+    },
+    {
+      "id": "cal_109",
+      "problem_text": "请叙述函数$f(x,y)$在区域$E$上一致连续的定义.",
+      "answer_text": "",
+      "topic": "一致连续性",
+      "difficulty": 5,
+      "source": "calculus20250411"
+    },
+    {
+      "id": "cal_110",
+      "problem_text": "证明$u=x^2-y^2,v=\\frac{1}{2}\\ln(x+y)$在$\\{(x,y)|x>0,x+y>0\\}$的任意一点邻域内都满足Cauchy-Riemann方程.",
+      "answer_text": "",
+      "topic": "复变函数与Cauchy-Riemann方程",
+      "difficulty": 7,
+      "source": "calculus20250411"
+    },
+    {
+      "id": "cal_111",
+      "problem_text": "求 $\\frac{\\partial u(1,1)}{\\partial \\vec{l}}$, 其中 $u = x^2 - y^2$, $\\vec{l}$ 满足 $<\\vec{l}, \\vec{i}> = \\frac{\\pi}{3}$, $<\\vec{l}, \\vec{j}> = \\frac{\\pi}{6}$.",
+      "answer_text": "",
+      "topic": "方向导数",
+      "difficulty": 4,
+      "source": "calculus20250414"
+    },
+    {
+      "id": "cal_112",
+      "problem_text": "求 $\\frac{\\partial u(1,1,1)}{\\partial \\vec{l}}$, 其中 $u = \\left(\\frac{x}{y}\\right)^z$, $\\vec{l}$ 与向量 $(2, 1, -1)$ 同向.",
+      "answer_text": "",
+      "topic": "方向导数",
+      "difficulty": 5,
+      "source": "calculus20250414"
+    },
+    {
+      "id": "cal_113",
+      "problem_text": "若 $\\frac{\\partial f(x_0, y_0)}{\\partial \\vec{l}}$ 存在, 是否必有 $\\frac{\\partial f(x_0, y_0)}{\\partial (-\\vec{l})} = -\\frac{\\partial f(x_0, y_0)}{\\partial \\vec{l}}$?",
+      "answer_text": "",
+      "topic": "方向导数性质",
+      "difficulty": 3,
+      "source": "calculus20250414"
+    },
+    {
+      "id": "cal_114",
+      "problem_text": "设 $u = ax + by + cz + d$, 求 $\\nabla f(x, y, z)$. 观察结果, 请解释这一现象.",
+      "answer_text": "",
+      "topic": "梯度计算",
+      "difficulty": 3,
+      "source": "calculus20250414"
+    },
+    {
+      "id": "cal_115",
+      "problem_text": "设 $f(x, y)$ 在点 $P_0(x_0, y_0)$ 可微, 在点 $P_0$ 给定 $n$ 个单位向量 $\\vec{l}_1, \\vec{l}_2, \\ldots, \\vec{l}_n$, 且相邻两个向量之间的夹角为 $\\frac{2\\pi}{n}$. 证明: \n$$\n\\sum_{i=1}^{n} \\frac{\\partial f(x_0, y_0)}{\\partial \\vec{l}_i} = 0.\n$$",
+      "answer_text": "",
+      "topic": "方向导数的对称性",
+      "difficulty": 7,
+      "source": "calculus20250414"
+    },
+    {
+      "id": "cal_116",
+      "problem_text": "求曲线 $x^2 + y^2 + z^2 = 6, x + y + z = 0$ 在点 $(1, -2, 1)$ 处的切线和法平面方程。",
+      "topic": "多元函数的切线与法平面",
+      "difficulty": 5,
+      "source": "calculus20250416"
+    },
+    {
+      "id": "cal_117",
+      "problem_text": "求曲面 $3x^2 + 2y^2 = 2z + 1$ 在点 $(1, 1, 2)$ 的切平面与法线方程。",
+      "topic": "多元函数的切平面与法线",
+      "difficulty": 5,
+      "source": "calculus20250416"
+    },
+    {
+      "id": "cal_118",
+      "problem_text": "设函数 $F(x, y, z)$ 是一个 $n$ 齐次函数（即 $F(tx, ty, tz) = t^n F(x, y, z)$），$P_0(x_0, y_0, z_0)$ 是曲面 $F(x, y, z) = c$ 上的点，且在该点的法向量不为零。证明：此曲面在 $P_0$ 处的切平面方程为\n$$\nx F_x(P_0) + y F_y(P_0) + z F_z(P_0) = n.\n$$",
+      "topic": "齐次函数与切平面方程",
+      "difficulty": 7,
+      "source": "calculus20250416"
+    },
+    {
+      "id": "cal_119",
+      "problem_text": "求曲面 $x^2 + 2y^2 + 3z^2 = 21$ 的平行于平面 $x + 4y + 6z = 0$ 的所有切平面。",
+      "topic": "切平面与平行条件",
+      "difficulty": 6,
+      "source": "calculus20250416"
+    },
+    {
+      "id": "cal_120",
+      "problem_text": "求两曲面的\n$$\nF(x, y, z) = 0, G(x, y, z) = 0\n$$\n的交线在 $Oxy$ 平面上的投影曲线的切线方程。（假定 $F, G$ 可微）",
+      "topic": "曲面交线的投影与切线",
+      "difficulty": 7,
+      "source": "calculus20250416"
+    },
+    {
+      "id": "cal_121",
+      "problem_text": "设 $C: \\vec{r} = \\vec{r}(t)$ 是一光滑曲线，非零向量 $\\vec{a} = (a_1, a_2, a_3)$ 与 $\\vec{r}'(t_0)$ 平行，试求曲线 $C$ 的参数方程 $\\vec{r}_1(t)$，使得 $\\vec{r}_1'(t_0) = \\vec{a}$。",
+      "topic": "曲线的参数方程与导数",
+      "difficulty": 6,
+      "source": "calculus20250416"
+    },
+    {
+      "id": "cal_122",
+      "problem_text": "求曲线 $x^2 + y^2 + z^2 = 6, x + y + z = 0$ 在点 $(1, -2, 1)$ 处的切线和法平面方程。",
+      "topic": "多元函数的切线与法平面",
+      "difficulty": 5,
+      "source": "calculus20250416"
+    },
+    {
+      "id": "cal_123",
+      "problem_text": "求曲面 $3x^2 + 2y^2 = 2z + 1$ 在点 $(1, 1, 2)$ 的切平面与法线方程。",
+      "topic": "多元函数的切平面与法线",
+      "difficulty": 5,
+      "source": "calculus20250416"
+    },
+    {
+      "id": "cal_124",
+      "problem_text": "设函数 $F(x, y, z)$ 是一个 $n$ 齐次函数（即 $F(tx, ty, tz) = t^n F(x, y, z)$），$P_0(x_0, y_0, z_0)$ 是曲面 $F(x, y, z) = c$ 上的点，且在该点的法向量不为零。证明：此曲面在 $P_0$ 处的切平面方程为\n$$\nx F_x(P_0) + y F_y(P_0) + z F_z(P_0) = n.\n$$",
+      "topic": "齐次函数与切平面方程",
+      "difficulty": 7,
+      "source": "calculus20250416"
+    },
+    {
+      "id": "cal_125",
+      "problem_text": "求曲面 $x^2 + 2y^2 + 3z^2 = 21$ 的平行于平面 $x + 4y + 6z = 0$ 的所有切平面。",
+      "topic": "切平面与平行条件",
+      "difficulty": 6,
+      "source": "calculus20250416"
+    },
+    {
+      "id": "cal_126",
+      "problem_text": "求两曲面的\n$$\nF(x, y, z) = 0, G(x, y, z) = 0\n$$\n的交线在 $Oxy$ 平面上的投影曲线的切线方程。（假定 $F, G$ 可微）",
+      "topic": "曲面交线的投影与切线",
+      "difficulty": 7,
+      "source": "calculus20250416"
+    },
+    {
+      "id": "cal_127",
+      "problem_text": "设 $C: \\vec{r} = \\vec{r}(t)$ 是一光滑曲线，非零向量 $\\vec{a} = (a_1, a_2, a_3)$ 与 $\\vec{r}'(t_0)$ 平行，试求曲线 $C$ 的参数方程 $\\vec{r}_1(t)$，使得 $\\vec{r}_1'(t_0) = \\vec{a}$。",
+      "topic": "曲线的参数方程与导数",
+      "difficulty": 6,
+      "source": "calculus20250416"
+    },
+    {
+      "id": "cal_128",
+      "problem_text": "求单位圆的外切三角形面积中最小者.",
+      "answer_text": "",
+      "topic": "最值问题与几何应用",
+      "difficulty": 5,
+      "source": "calculus20250421"
+    },
+    {
+      "id": "cal_129",
+      "problem_text": "凸四边形各边依次分别为$a,b,c,d$, 求四边形面积的最大值.",
+      "answer_text": "",
+      "topic": "最值问题与几何应用",
+      "difficulty": 6,
+      "source": "calculus20250421"
+    },
+    {
+      "id": "cal_130",
+      "problem_text": "求$x^3+y^3+z^3-2xyz$在$x^2+y^2+z^2=1$上的最值.",
+      "answer_text": "",
+      "topic": "条件极值",
+      "difficulty": 7,
+      "source": "calculus20250421"
+    },
+    {
+      "id": "cal_131",
+      "problem_text": "求抛物线$y=x^2$和直线$x-y=1$间的最短距离.",
+      "answer_text": "",
+      "topic": "最短距离问题",
+      "difficulty": 4,
+      "source": "calculus20250421"
+    },
+    {
+      "id": "cal_132",
+      "problem_text": "设$\\bar{\\Omega}\\subset\\mathbb{R}^2$是有界闭区域, $u(x,y)$在$\\bar{\\Omega}$的内部(所有内点构成的集合)有二阶偏导数, 在$\\bar{\\Omega}$的内部满足\\n$$\\frac{\\partial^2 u}{\\partial x^2} + \\frac{\\partial^2 u}{\\partial y^2} + cu = 0,$$\\n其中$c<0$是一个常数. 求证:\\n(1) $u$在$\\bar{\\Omega}$上的正最大值(负最小值)不能在$\\bar{\\Omega}$内部取到;\\n(2) 又若$u$在$\\bar{\\Omega}$上连续, $u|_{\\partial\\Omega}=0$, 则$u\\equiv 0$.\\nHint: 转化为一元函数的带Peano余项Taylor公式, 构造条件中的形式.",
+      "answer_text": "",
+      "topic": "偏微分方程与极值原理",
+      "difficulty": 9,
+      "source": "calculus20250421"
+    },
+    {
+      "id": "cal_133",
+      "problem_text": "在 $\\mathbb{R}^2$ 的区域 $D = \\{(x, y) \\mid |x| \\leq 1, |y| \\leq 1\\}$ 上定义函数\n\\[ f(x, y) = \\begin{cases} \n 1, & x, y \\in \\mathbb{Q}, \\\\ \n 0, & x \\notin \\mathbb{Q} \\text{ or } y \\notin \\mathbb{Q}. \n\\end{cases} \\]\n问 $f(x, y)$ 在 $D$ 上是否可积？",
+      "answer_text": "",
+      "topic": "二重积分与可积性",
+      "difficulty": 8,
+      "source": "calculus20250423"
+    },
+    {
+      "id": "cal_134",
+      "problem_text": "在点集 $D = \\{(x, y) \\mid 0 \\leq x \\leq 1, 0 \\leq y \\leq 1\\} \\cup \\{(x, y) \\mid x = 0, 1 \\leq y \\leq 2\\}$ 上给定函数\n\\[ f(x, y) = \\begin{cases} \n 1, & 0 \\leq x \\leq 1, 0 \\leq y \\leq 1, \\\\ \n \\frac{1}{2-y}, & x = 0, 1 < y < 2, \\\\ \n 0, & x = 0, y = 2. \n\\end{cases} \\]\n证明：（1）$D$ 是 $\\mathbb{R}^2$ 上的可测集；（2）$f(x, y)$ 在 $D$ 上无界；（3）$f(x, y)$ 在 $D$ 上可积。",
+      "answer_text": "",
+      "topic": "二重积分与可积性",
+      "difficulty": 9,
+      "source": "calculus20250423"
+    },
+    {
+      "id": "cal_135",
+      "problem_text": "设 $f(x, y)$ 在 $D = \\{(x, y) | 0 \\leq x \\leq 1, 0 \\leq y \\leq 1\\}$ 上定义如下:\\n$$f(x, y) = \\begin{cases} \\frac{1}{q_x}, & \\text{if } x = \\frac{p_x}{q_x}, y \\notin \\mathbb{Q}; \\\\ \\frac{1}{q_y}, & \\text{if } y = \\frac{p_y}{q_y}, x \\notin \\mathbb{Q}; \\\\ 0, & \\text{the others.} \\end{cases}$$\\n其中 $q_x, q_y$ 分别表示有理数 $x, y$ 写成既约分数后的分母.\\n证明: 函数 $f(x, y)$ 在 $D$ 上二重可积，但两个累次积分都不存在.",
+      "answer_text": "",
+      "topic": "二重积分与累次积分的性质",
+      "difficulty": 8,
+      "source": "calculus20250425"
+    },
+    {
+      "id": "cal_136",
+      "problem_text": "设 $f(x, y)$ 在 $D = \\{(x, y) | 0 \\leq x \\leq 1, 0 \\leq y \\leq 1\\}$ 定义如下:\\n$$f(x, y) = \\begin{cases} 1, & \\text{当 $x$ 和 $y$ 都是非零有理数, $x = \\frac{p_x}{q_x}, y = \\frac{p_y}{q_y}$ 且 $q_x = q_y$ 时;} \\\\ 0, & \\text{the others.} \\end{cases}$$\\n证明: $f(x, y)$ 在 $D$ 上不是二重可积，而两个累次积分都存在且相等.",
+      "answer_text": "",
+      "topic": "二重积分与累次积分的性质",
+      "difficulty": 7,
+      "source": "calculus20250425"
+    },
+    {
+      "id": "cal_137",
+      "problem_text": "设 $D$ 由 $y = 0$, $y = \\sin x^2$, $x = 0$ 和 $x = \\sqrt{\\pi}$ 围成. 计算\\n$$\\iint_D x d\\sigma.$$",
+      "answer_text": "",
+      "topic": "二重积分的计算",
+      "difficulty": 6,
+      "source": "calculus20250425"
+    },
+    {
+      "id": "cal_138",
+      "problem_text": "设 $D$ 是以 $(2, 2)$, $(2, 3)$ 和 $(3, 1)$ 为顶点的三角形区域，计算\\n$$\\iint_D e^{x+y} d\\sigma.$$",
+      "answer_text": "",
+      "topic": "二重积分的计算",
+      "difficulty": 6,
+      "source": "calculus20250425"
+    },
+    {
+      "id": "cal_139",
+      "problem_text": "交换积分次序 $\\int_0^e dy \\int_0^{\\ln x} f(x, y) dx$, 其中 $f$ 连续.",
+      "answer_text": "",
+      "topic": "积分次序的交换",
+      "difficulty": 5,
+      "source": "calculus20250425"
+    },
+    {
+      "id": "cal_140",
+      "problem_text": "求由下面两个曲面所围立体的体积：\n\\[ \\frac{x^2}{a^2} + \\frac{y^2}{b^2} = z, \\quad \\frac{x^2}{a^2} + \\frac{y^2}{b^2} = \\frac{x}{a} + \\frac{y}{b}, \\quad z = 0 (a, b, c > 0). \\]",
+      "answer_text": "",
+      "topic": "二重积分与体积计算",
+      "difficulty": 8,
+      "source": "calculus20250427"
+    },
+    {
+      "id": "cal_141",
+      "problem_text": "计算积分\n\\[ \\iint_{x^2 + y^2 \\leq 1} \\sin \\sqrt{x^2 + y^2} d\\sigma. \\]",
+      "answer_text": "",
+      "topic": "极坐标下的二重积分",
+      "difficulty": 6,
+      "source": "calculus20250427"
+    },
+    {
+      "id": "cal_142",
+      "problem_text": "设 $D$ 为 $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1, a, b > 0$ 围成的区域，计算\n\\[ \\iint_D \\sqrt{1 - \\frac{x^2}{a^2} - \\frac{y^2}{b^2}} d\\sigma. \\]",
+      "answer_text": "",
+      "topic": "椭圆区域上的二重积分",
+      "difficulty": 7,
+      "source": "calculus20250427"
+    },
+    {
+      "id": "cal_143",
+      "problem_text": "设 $D$ 由 $x^4 + y^4 = 1$ 围成，计算\n\\[ \\iint_D (x^2 + y^2) d\\sigma. \\]",
+      "answer_text": "",
+      "topic": "特殊区域上的二重积分",
+      "difficulty": 9,
+      "source": "calculus20250427"
+    },
+    {
+      "id": "cal_144",
+      "problem_text": "计算积分 $\\iint_D (x + y) d\\sigma$，其中 $D$ 由 $y^2 = 2x, x + y = 4, x + y = 12$ 围成。",
+      "answer_text": "",
+      "topic": "平面区域上的二重积分",
+      "difficulty": 7,
+      "source": "calculus20250427"
+    },
+    {
+      "id": "cal_145",
+      "problem_text": "设 $D$ 为 $xy = 2, xy = 4, y = x, y = 2x$ 围成的区域，计算\n\\[ \\iint_D xy d\\sigma. \\]",
+      "answer_text": "",
+      "topic": "双曲线区域上的二重积分",
+      "difficulty": 8,
+      "source": "calculus20250427"
+    },
+    {
+      "id": "cal_146",
+      "problem_text": "设 $f(x, y)$ 在单位圆上有连续偏导数，且在边界上取值为零。求证：\n\\[ f(0, 0) = \\lim_{\\varepsilon \\to 0^+} \\frac{-1}{2\\pi} \\iint_{\\varepsilon \\leq x^2 + y^2 \\leq 1} \\frac{x f_x(x, y) + y f_y(x, y)}{x^2 + y^2} dx dy. \\]",
+      "answer_text": "",
+      "topic": "格林公式与二重积分的应用",
+      "difficulty": 10,
+      "source": "calculus20250427"
+    },
+    {
+      "id": "cal_147",
+      "problem_text": "设 $a, b > 0$，证明：\n(1) $\\lim_{T \\to +\\infty} \\int_0^T dx \\int_a^b e^{xy} dy = \\ln \\frac{b}{a}$；\n(2) $\\int_0^{+\\infty} \\frac{e^{-ax} - e^{-bx}}{x} dx = \\ln \\frac{b}{a}$.",
+      "answer_text": "",
+      "topic": "极限与多重积分",
+      "difficulty": 8,
+      "source": "calculus20250428"
+    },
+    {
+      "id": "cal_148",
+      "problem_text": "设 $V$ 是 $x + y - z = 7$, $z + x - y = 8$, $y + z - x = 9$ 在第一卦限所围部分，试画出区域 $V$.",
+      "answer_text": "",
+      "topic": "三重积分的几何意义",
+      "difficulty": 6,
+      "source": "calculus20250428"
+    },
+    {
+      "id": "cal_149",
+      "problem_text": "计算 $\\iiint_V (x + y + z) dxdydz$，其中 $V: \\frac{x^2}{a^2} + \\frac{y^2}{b^2} + \\frac{z^2}{c^2} \\leq 1$.",
+      "answer_text": "",
+      "topic": "椭球体上的三重积分",
+      "difficulty": 7,
+      "source": "calculus20250428"
+    },
+    {
+      "id": "cal_150",
+      "problem_text": "设 $V$ 是由曲面 $x^2 + y^2 + z^2 = 1$, $x = 0$, $y = 0$, $z = 0$ 围成的位于第一卦限部分，计算 $\\iiint_V x^3 yz dxdydz$.",
+      "answer_text": "",
+      "topic": "球坐标下的三重积分",
+      "difficulty": 9,
+      "source": "calculus20250428"
+    },
+    {
+      "id": "cal_151",
+      "problem_text": "计算 $\\iiint_V z dxdydz$，其中 $V$ 由 $z = x^2 + y^2$, $z = 1$, $z = 2$ 所围.",
+      "answer_text": "",
+      "topic": "柱坐标下的三重积分",
+      "difficulty": 7,
+      "source": "calculus20250428"
+    },
+    {
+      "id": "cal_152",
+      "problem_text": "计算 $\\iiint_V (x^2 + y^2) dxdydz$，其中 $V$ 由 $z = 16(x^2 + y^2)$, $z = 4(x^2 + y^2)$, $z = 64$ 所围.",
+      "answer_text": "",
+      "topic": "柱坐标下的三重积分",
+      "difficulty": 8,
+      "source": "calculus20250428"
+    },
+    {
+      "id": "cal_153",
+      "problem_text": "设 $\\Omega$ 由 $z = xy$, $x + y + z = 1$ 和 $z = a (a > 0)$ 围成，求 $\\Omega$ 的体积.",
+      "answer_text": "",
+      "topic": "三重积分的应用",
+      "difficulty": 9,
+      "source": "calculus20250428"
+    },
+    {
+      "id": "cal_154",
+      "problem_text": "求 $\\iiint_V \\left(\\frac{x^2}{a^2} + \\frac{y^2}{b^2} + \\frac{z^2}{c^2}\\right) dxdydz$, 其中 $V: \\frac{x^2}{a^2} + \\frac{y^2}{b^2} + \\frac{z^2}{c^2} \\leq \\frac{x}{a} + \\frac{y}{b} + \\frac{z}{c}, a, b, c > 0$.",
+      "answer_text": "",
+      "topic": "三重积分计算",
+      "difficulty": 6,
+      "source": "calculus20250430"
+    },
+    {
+      "id": "cal_155",
+      "problem_text": "设 $V$ 由 $z = x^2 + y^2$, $z = \\frac{x^2 + y^2}{2}$, $xy = 1$, $xy = 2$, $y = x$, $y = 2x$ 所围成的立体，求 $\\iiint_V x^2 y^2 dxdydz$.",
+      "answer_text": "",
+      "topic": "三重积分计算",
+      "difficulty": 7,
+      "source": "calculus20250430"
+    },
+    {
+      "id": "cal_156",
+      "problem_text": "设 $V$ 为 $x^2 + y^2 + z^2 \\leq 4$ 与 $x^2 + y^2 + (z-2)^2 \\leq 4$, $x \\geq 0$, $y \\geq 0$ 的公共部分，计算 $\\iiint_V xyz dxdydz$.",
+      "answer_text": "",
+      "topic": "三重积分计算",
+      "difficulty": 8,
+      "source": "calculus20250430"
+    },
+    {
+      "id": "cal_157",
+      "problem_text": "设函数 $f(t) \\in C^1(0, +\\infty)$. 令\n$$\n\\Omega_t = \\{(x, y, z) | \\frac{x^2}{a^2} + \\frac{y^2}{b^2} + \\frac{z^2}{c^2} \\leq t^2\\},\n$$\n$$\nF(t) = \\iiint_{\\Omega_t} f\\left(\\frac{x^2}{a^2} + \\frac{y^2}{b^2} + \\frac{z^2}{c^2}\\right) dxdydz.\n$$\n求 $F'(t)$.",
+      "answer_text": "",
+      "topic": "三重积分与微分方程",
+      "difficulty": 9,
+      "source": "calculus20250430"
+    },
+    {
+      "id": "cal_158",
+      "problem_text": "利用正交变换计算积分 $\\iiint_V \\cos(ax + by + cz) dxdydz$, 其中 $V: x^2 + y^2 + z^2 \\leq r^2$, $a, b, c$ 不全为零.",
+      "answer_text": "",
+      "topic": "三重积分与坐标变换",
+      "difficulty": 8,
+      "source": "calculus20250430"
+    }
+  ]
+}

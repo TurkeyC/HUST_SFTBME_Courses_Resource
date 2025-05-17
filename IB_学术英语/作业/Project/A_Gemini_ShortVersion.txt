@@ -1,0 +1,9 @@
+Here are the brief paragraphs for your academic poster:
+
+**RESULTS: Mouse embryos exhibit large tension and compression oscillations**
+
+Studies in developing mouse embryos revealed dominant normal traction forces (tension/compression) over shear forces. Injected microgels showed large oscillatory normal forces during the blastocyst stage, indicating significant pushing and pulling forces. These oscillations were larger than shear forces and distinct from those in zebrafish. This highlights the importance of cell-generated traction forces in early mouse embryogenesis and suggests species-specific force utilization.
+
+**MATERIALS AND METHODS**
+
+The study utilized biocompatible Co-Pt microcrosses embedded in photodegradable PEG microgels to create magnetic microrobot probes. Microcrosses were fabricated via sputtering, photolithography, electrodeposition, and annealing. Probes were generated using microfluidic T junctions and picoinjection for controlled microgel formation with embedded microcrosses and fluorescent nanoparticles. Material characterization confirmed the microcrosses' composition and magnetic properties.

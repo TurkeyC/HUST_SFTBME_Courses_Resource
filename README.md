@@ -4,11 +4,11 @@
 本项目为华中科技大学未来技术学院生医方向2024级的相关课程资料与收集<br>
 
 [![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource) <br>
-[![GitHub Stars](https://img.shields.io/github/stars/TurkeyC/HUST_SFTBME_Courses_Resource.svg)](https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource/stargazers) [![GitHub Forks](https://img.shields.io/github/forks/TurkeyC/HUST_SFTBME_Courses_Resource.svg)](https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource/network)  [![GitHub Issues](https://img.shields.io/github/issues/TurkeyC/HUST_SFTBME_Courses_Resource.svg)](https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/TurkeyC/HUST_SFTBME_Courses_Resource.svg)](https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource/pulls)
+[![GitHub Stars](https://img.shields.io/github/stars/TurkeyC/HUST_SFTBME_Courses_Resource.svg)](https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource/stargazers) 
+[![GitHub Forks](https://img.shields.io/github/forks/TurkeyC/HUST_SFTBME_Courses_Resource.svg)](https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource/network)
 [![GitHub contributors](https://img.shields.io/github/contributors/TurkeyC/HUST_SFTBME_Courses_Resource)](https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource/graphs/contributors)
 [![GitHub license](https://img.shields.io/github/license/TurkeyC/HUST_SFTBME_Courses_Resource)](https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource/blob/main/LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/TurkeyC/HUST_SFTBME_Courses_Resource)](https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource/commits/main)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/TurkeyC/HUST_SFTBME_Courses_Resource)](https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource/graphs/commit-activity)
 [![GitHub repo size](https://img.shields.io/github/repo-size/TurkeyC/HUST_SFTBME_Courses_Resource)](https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource)
 <br>
 

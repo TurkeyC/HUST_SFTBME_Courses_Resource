@@ -1,11 +1,12 @@
 name: Sync package.json to doc branch
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'package.json'
+  workflow_dispatch:  # 同时支持手动触发
+#  push:
+#    branches:
+#      - main
+#    paths:
+#      - 'package.json'
 
 jobs:
   sync:

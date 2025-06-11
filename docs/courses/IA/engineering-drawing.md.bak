@@ -1,0 +1,198 @@
+# 工程制图（一）
+
+<div class="course-header">
+  <div class="course-info">
+    <h2>课程信息</h2>
+    <div class="info-grid">
+      <div class="info-item">
+        <span class="info-label">课程代码</span>
+        <span class="info-value">MEI1001T</span>
+      </div>
+      <div class="info-item">
+        <span class="info-label">学分</span>
+        <span class="info-value">3学分</span>
+      </div>
+      <div class="info-item">
+        <span class="info-label">课程性质</span>
+        <span class="info-value">必修</span>
+      </div>
+      <div class="info-item">
+        <span class="info-label">开课学期</span>
+        <span class="info-value">大一上学期</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+## 📚 课程简介
+
+工程制图是工程技术人员的基本技能之一，本课程主要学习：
+
+- **投影理论基础**：掌握正投影法的基本理论和作图方法
+- **三视图绘制**：学会绘制物体的主视图、俯视图、左视图
+- **机械制图标准**：了解国家制图标准和规范
+- **计算机绘图**：掌握AutoCAD等绘图软件的使用
+- **零件图与装配图**：学会绘制和阅读工程图纸
+
+## 📁 资源分类
+
+### 📖 课件资料
+- **Flash课件**：包含0-0.swf到zht-6.swf共50+个交互式课件
+- **理论课件**：投影理论、三视图原理、制图标准等
+- **实践指导**：绘图步骤、技巧方法、常见错误
+
+### ✏️ 作业与习题
+- **电类工图作业答案**：完整的作业解答过程
+- **3D工程制图**：慕课题目及解析
+- **工图习题节选**：重点习题及详细答案
+- **上机作业**：AutoCAD实践练习题
+
+### 📝 考试资料
+- **历年真题**：近三年期末考试真题
+- **模拟试卷**：考前练习题目
+- **考试要点**：重点知识归纳
+- **答题技巧**：考试策略和时间分配
+
+## 🎯 学习重点
+
+### 第一部分：投影基础
+1. **正投影原理**
+   - 投影线、投影面的概念
+   - 点、线、面的投影规律
+   - 三视图的对应关系
+
+2. **基本几何体**
+   - 棱柱、棱锥的三视图
+   - 圆柱、圆锥、球的三视图
+   - 组合体的画法和读图
+
+### 第二部分：机械制图
+1. **制图标准**
+   - 图纸格式和标题栏
+   - 字体、线型、尺寸标注
+   - 比例、剖面符号
+
+2. **零件图绘制**
+   - 主视图选择原则
+   - 剖视图、断面图
+   - 尺寸标注完整性
+
+### 第三部分：计算机绘图
+1. **AutoCAD基础**
+   - 基本绘图命令
+   - 修改命令使用
+   - 图层管理和打印设置
+
+2. **3D建模入门**
+   - 基本实体建模
+   - 布尔运算
+   - 工程图生成
+
+## 💡 学习建议
+
+### 课前预习
+- 📖 提前阅读课件，了解基本概念
+- 🎯 明确每次课的学习目标
+- ❓ 准备课堂提问的问题
+
+### 课堂学习
+- ✏️ 认真做笔记，特别是作图步骤
+- 🤔 主动思考投影规律
+- 🙋‍♂️ 积极参与课堂讨论
+
+### 课后复习
+- 🔄 及时复习课堂内容
+- 📝 完成课后习题
+- 💻 练习计算机绘图
+- 👥 与同学讨论交流
+
+## 🔗 相关资源
+
+### 推荐教材
+- 《机械制图》（第八版）- 何铭新主编
+- 《工程制图基础》- 王永平主编
+- 《AutoCAD 2020中文版机械制图教程》
+
+### 在线资源
+- [国家智慧教育平台-工程制图](https://www.smartedu.cn/)
+- [AutoCAD官方教程](https://www.autodesk.com.cn/)
+- [工程制图国家标准](http://www.gb688.cn/)
+
+### 软件工具
+- **AutoCAD 2020/2022**：专业制图软件
+- **SolidWorks**：三维建模软件
+- **CAXA**：国产CAD软件
+
+## 📊 成绩构成
+
+| 评分项目 | 占比 | 说明 |
+|---------|------|------|
+| 平时成绩 | 30% | 课堂表现、作业完成情况 |
+| 期中考试 | 30% | 理论知识和基础作图 |
+| 期末考试 | 40% | 综合绘图能力考核 |
+
+## 📞 联系方式
+
+如果您对课程资料有任何问题或建议，请通过以下方式联系：
+
+- GitHub Issues: [提交问题](https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource/issues)
+- 资料贡献: 欢迎分享您的学习笔记和经验
+
+---
+
+*最后更新时间: 2024年12月*
+
+<style>
+.course-header {
+  background: linear-gradient(135deg, rgba(100, 108, 255, 0.1) 0%, rgba(116, 123, 255, 0.05) 100%);
+  border-radius: 16px;
+  padding: 32px;
+  margin: 32px 0;
+  border: 1px solid rgba(100, 108, 255, 0.2);
+}
+
+.course-info h2 {
+  margin: 0 0 24px 0;
+  color: var(--vp-c-brand-1);
+}
+
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.info-item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.info-label {
+  font-size: 0.9rem;
+  color: var(--vp-c-text-2);
+  font-weight: 500;
+}
+
+.info-value {
+  font-size: 1.1rem;
+  color: var(--vp-c-text-1);
+  font-weight: 600;
+}
+
+.course-content table {
+  width: 100%;
+  margin: 24px 0;
+}
+
+.course-content th {
+  background: var(--vp-c-bg-alt);
+  padding: 12px;
+  text-align: left;
+}
+
+.course-content td {
+  padding: 12px;
+  border-bottom: 1px solid var(--vp-c-border);
+}
+</style>

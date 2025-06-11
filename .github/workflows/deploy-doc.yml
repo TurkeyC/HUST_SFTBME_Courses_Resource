@@ -13,7 +13,14 @@ jobs:
       - name: Checkout doc branch
         uses: actions/checkout@v4
         with:
-          ref: doc
+          ref: doc  # 从doc分支检出代码
+
+      - name: Debug directory
+        run: |
+          echo "Current directory content:"
+          ls -la
+          echo "Package.json content:"
+          cat package.json || echo "No package.json found"
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -22,20 +29,21 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: |
-          cd doc  # 进入doc子目录
-          npm install
+        run: npm install
 
       - name: Build VitePress site
+        run: npm run docs:build  # 或者您的实际构建命令
+
+      - name: Find build output
         run: |
-          cd doc  # 进入doc子目录
-          npm run docs:build  # 或者您的实际构建命令
+          echo "Searching for dist directory:"
+          find . -name "dist" -type d
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./doc/.vitepress/dist  # 更新为您的实际构建输出目录
+          publish_dir: ./.vitepress/dist  # 假设构建输出在此目录
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
           commit_message: 'Deploy documentation from doc branch'

@@ -1,24 +1,24 @@
 {
-  "name": "hust-sftbme-courses-website",
-  "version": "1.0.0",
+  "name": "hsbcr",
+  "private": true,
+  "version": "0.0.0",
   "type": "module",
-  "description": "华中科技大学未来技术学院生医方向课程资源网站",
   "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
-  "devDependencies": {
-    "@types/node": "^20.0.0",
-    "vitepress": "^1.6.3"
+  "dependencies": {
+    "vue": "^3.5.16"
   },
-  "keywords": [
-    "HUST",
-    "未来技术学院",
-    "生医工程",
-    "课程资源",
-    "vitepress"
-  ],
-  "author": "TurkeyC",
-  "license": "MIT"
+  "devDependencies": {
+    "@vue/tsconfig": "^0.7.0",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.5",
+    "vitepress": "^1.6.3",
+    "vue-tsc": "^1.6.5"
+  }
 }

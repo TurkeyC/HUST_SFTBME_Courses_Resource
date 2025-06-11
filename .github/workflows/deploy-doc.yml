@@ -1,35 +1,40 @@
-name: Deploy VitePress Docs
+name: Deploy VitePress to GitHub Pages
 
 on:
+  # 触发条件：当doc分支有推送时运行
   push:
     branches:
       - doc
+  # 允许手动触发工作流程
   workflow_dispatch:
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout doc branch
         uses: actions/checkout@v4
         with:
-          ref: doc
+          ref: doc  # 从doc分支检出代码
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '18'  # 使用您项目适合的Node.js版本
+          cache: 'npm'
 
       - name: Install dependencies
         run: npm install
 
-      - name: Build VitePress docs in /doc
-        run: npx vitepress build doc
+      - name: Build VitePress site
+        run: npm run docs:build  # 或者您在package.json中定义的构建命令
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./doc/.vitepress/dist
-          user_name: github-actions[bot]
-          user_email: github-actions[bot]@users.noreply.github.com
+          publish_dir: ./.vitepress/dist  # VitePress构建输出目录，可能需要根据您的配置调整
+          # 可选：将部署提交分配给您
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'Deploy documentation from doc branch'

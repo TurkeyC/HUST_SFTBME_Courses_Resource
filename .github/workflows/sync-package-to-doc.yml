@@ -1,0 +1,41 @@
+name: Sync package.json to doc branch
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'package.json'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Copy package.json
+        run: cp package.json package-main.json
+
+      - name: Checkout doc branch
+        run: |
+          git fetch origin doc:doc
+          git checkout doc
+
+      - name: Move package.json to /doc
+        run: mv package-main.json doc/package.json
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          if [[ `git status --porcelain` ]]; then
+            git add doc/package.json
+            git commit -m "chore: sync package.json from main"
+            git push origin doc
+          else
+            echo "No changes to commit"
+          fi

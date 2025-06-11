@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/HUST_SFTBME_Courses_Resource/',
   title: 'H.S.B.C.R.',
   description: '课程资源共享平台',
   // 添加网站图标配置

@@ -1,9 +1,9 @@
 name: Deploy VitePress site to GitHub Pages
 
 on:
-  push:
-    branches:
-      - doc  # 当推送到 doc 分支时触发
+#  push:
+#    branches:
+#      - doc  # 当推送到 doc 分支时触发
   workflow_dispatch:  # 同时支持手动触发
 
 # 设置 GITHUB_TOKEN 的权限以允许部署到 GitHub Pages

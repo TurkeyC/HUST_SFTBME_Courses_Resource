@@ -3,7 +3,8 @@ name: Deploy VitePress Docs
 on:
   push:
     branches:
-      - doc
+      - doc  # 当推送到 doc 分支时触发
+  workflow_dispatch:  # 同时支持手动触发
 
 jobs:
   deploy:

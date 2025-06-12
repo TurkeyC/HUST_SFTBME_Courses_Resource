@@ -9,7 +9,7 @@ hero:
   text: 课程资源共享平台
   tagline: 华科未院生医方向24级课程资料与资源收集
   image:
-    src: /Casumi Husteru_01(1).png
+    src: /Casumi Husteru_01_zen.png
     alt: 项目Logo
   actions:
 #    - theme: brand

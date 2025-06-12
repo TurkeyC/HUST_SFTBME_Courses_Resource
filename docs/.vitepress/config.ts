@@ -103,7 +103,7 @@ export default defineConfig({
     },
     // 编辑此页
     editLink: {
-      pattern: 'https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource/edit/main/docs/:path',
+      pattern: 'https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource/edit/doc/docs/:path',
       text: '在 GitHub 上编辑此页'
     },    // 最后更新时间
     lastUpdated: {

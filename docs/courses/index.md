@@ -2,7 +2,7 @@
 
 <div class="maintenance-container" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <div class="maintenance-content" style="text-align: center;">
-    <img src="/Casumi_Husteru_n5.svg" alt="维护中" class="maintenance-image" style="display: inline-block; margin: 0 auto;">
+    <img src="/images/Casumi_Husteru_n5_Ai.svg" alt="维护中" class="maintenance-image" style="display: inline-block; margin: 0 auto;">
     <h2>正在维护中</h2>
     <p>我们正在努力完善课程内容，敬请期待！</p>
     <div class="progress-bar">

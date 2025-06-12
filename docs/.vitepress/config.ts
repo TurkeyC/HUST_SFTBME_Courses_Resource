@@ -7,7 +7,7 @@ export default defineConfig({
   // 添加网站图标配置
   head: [
     // 基本图标
-    ['link', { rel: 'icon', href: '/Casumi_Husteru_n5.svg' }],
+    ['link', { rel: 'icon', href: '/images/Casumi_Husteru_n5_Ai.svg' }],
     // 苹果设备图标
     ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png', sizes: '180x180' }],
     // 不同尺寸的图标

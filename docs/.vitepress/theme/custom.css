@@ -30,6 +30,14 @@
   --vp-font-family-mono: "Source Code Pro", monospace;
 }
 
+/* 首页 hero 区图片深浅色切换 */
+.VPHero .image img {
+  content: url('/images/Casumi Husteru_01_SFT_zen.png');
+}
+.dark .VPHero .image img {
+  content: url('/images/Casumi Husteru_01_SFT_Dark_zen.png');
+}
+
 /* 深色模式样式 */
 .dark {
   /* 深色模式下的品牌颜色 */

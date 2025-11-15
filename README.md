@@ -11,7 +11,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/TurkeyC/HUST_SFTBME_Courses_Resource)](https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource/commits/main)
 [![GitHub repo size](https://img.shields.io/github/repo-size/TurkeyC/HUST_SFTBME_Courses_Resource)](https://github.com/TurkeyC/HUST_SFTBME_Courses_Resource)
 <br>
-
+![count](https://count.getloli.com/@casuki37?name=casuki37&theme=gelbooru&padding=3&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 </div>
 
 ---
